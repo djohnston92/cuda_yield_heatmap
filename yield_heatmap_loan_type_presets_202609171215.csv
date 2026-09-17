@@ -1,0 +1,11 @@
+"record_id","loan_type","term_options","principal_min","principal_max","fee_min","fee_max","default_fee","apr_min","apr_max","default_apr","pd_min","pd_max","default_pd","lgd","curve_type","alias","updated_at"
+"133a6f70-dad2-47ba-96b8-33cb3bd6d59b",auto-used-baseline-2025,"[36, 48, 60, 72]",17000,19000,500,800,650,0.06,0.15,0.12,0.05,0.12,0.085,0.65,front_loaded,auto,2026-07-04 07:00:41.451 -0400
+"7c9c668d-fe50-453f-906c-ffe9dc18fba9",auto-new-baseline-2025,"[36, 48, 60]",35000,42000,500,800,650,0.01,0.045,0.04,0.001,0.01,0.01,0.55,front_loaded,auto,2026-07-04 07:12:32.974 -0400
+d10af4c9-dbb6-49c4-9cf3-2d7219972cbe,mortgage,"[360]",275000,500000,2200,3200,2700,0.04,0.07,0.055,0.01,0.04,0.0275,0.35,stair_step,mortgage,2026-07-04 07:00:41.451 -0400
+"8285a123-7254-4c0d-9b25-275ab5b5b907",personal_loan_credit_card,"[36, 48, 60]",6000,8000,100,300,200,0.29,0.39,0.295,0.9,0.95,0.95,0.9,front_loaded,personal_loan,2026-07-04 07:00:41.451 -0400
+"8832f978-36b8-42c0-aa3f-a825d6a65d1c",deep_subprime_loan,"[36, 48, 60, 72]",12000,15000,500,600,550,0.32,0.39,0.35,0.9,0.95,0.95,0.95,front_loaded,personal_loan,2026-07-09 08:04:53.156 -0400
+"539bd4f4-9baa-429a-94db-2ad582bec0e0",auto-new-high-msrp-2026,"[36, 48, 60]",90000,111000,500,1200,650,0.01,0.095,0.06,0.001,0.015,0.015,0.7,front_loaded,auto,2026-08-18 21:26:42.632 -0400
+"87aeb268-af45-43ec-a598-88cd1a4db1c6",GM-captured-finance,"[36, 48, 60, 72]",35000,75000,500,750,500,0.01,0.11,0.01,0.015,0.025,0.015,0.55,front_loaded,auto,2026-08-22 21:42:12.762 -0400
+a0a9cba4-8ba7-4067-96f1-137db01193e0,GM-captured-finance-high loss,"[36, 48, 60, 72]",35000,75000,500,750,500,0.01,0.11,0.01,0.015,0.15,0.015,0.55,front_loaded,auto,2026-08-22 21:42:12.762 -0400
+"5a5676ab-92fd-408e-96a6-f73f3919a0f5",deep_subprime_auto_drivetime,"[60, 66, 72]",15000,30000,500,800,650,0.04,0.28,0.227,0.04,0.13,0.107,0.75,front_loaded,auto,2026-08-22 22:13:32.479 -0400
+"9a672f96-a524-4545-9db9-5bb46ac53a8e",deep_subprime_auto_drivetime_sga_bundle,"[60, 66, 72]",15000,30000,1500,2400,650,0.04,0.28,0.227,0.04,0.13,0.107,0.75,front_loaded,auto,2026-08-22 22:13:32.479 -0400
